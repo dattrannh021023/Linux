@@ -1,4 +1,4 @@
-# Bật slow query log của MYSQL, MariaDB
+# Bật slow query log của MYSQL, MariaDB abc
 
 Để bật slow query log trong MySQL hoặc MariaDB, bạn cần thực hiện các bước sau:
 
